@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BuddyWinte
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on Frontend & Discord Development
+- 📫 How to reach me discord (@xhyrion1)
+- 😄 Pronouns: They/Them
